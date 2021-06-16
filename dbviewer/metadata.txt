@@ -1,0 +1,17 @@
+[general]
+name=3DCityDB Viewer
+qgisMinimumVersion=3.0
+description= This Plugin Connect 3DCityDB to QGIS and let the user add the layer per semantic into QGIS.
+version=0.1
+author= Aberham Christomus
+email=aberhamchrstt@gmail.com
+
+about=
+
+tracker=http://bugs
+repository=http://repo
+
+tags=database, postgreSQL, postGIS, 3DCityDB, CityGML
+icon=icons/dbicon.png
+experimental=True
+deprecated=False 
